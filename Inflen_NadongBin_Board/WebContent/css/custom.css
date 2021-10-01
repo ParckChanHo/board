@@ -1,0 +1,11 @@
+@import url("http://fonts.googleapis.com/earlyaccess/nanumgothic.css");
+@import url("http://fonts.googleapis.com/earlyaccess/hanna.css");
+@import url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/Jal_Onuel.woff') format('woff');
+*{
+	 font-family: 'Jal_Onuel';
+	 font-weight: normal;
+     font-style: normal;
+}
+h1 {
+	font-family: 'Hanna';
+}
